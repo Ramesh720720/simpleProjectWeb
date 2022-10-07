@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+#heading {
+    background-color: black;
+    color: white;
+    border: 8px solid blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#div1 {
+    margin-top: 10em;
+    width: 40em;
+    height: 15em;
+    /* background-color: rgb(217, 76, 202); */
+    background-color: black;
+    border: 8px solid blue;
+    ;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+}
+
+#time {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#taming {
+    font-style: italic;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 1000;
+    font-size: 5em;
+    color: greenyellow;
+}
+
+#taming2 {
+    font-style: italic;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    /* color: #292693; */
+    color: red;
+}
